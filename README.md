@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/torch/distro.svg?branch=master)](https://travis-ci.org/torch/distro)
+## Sensibill 
+The reason for this self-contained distro and torch repository is to fix the allocation erros introduced by commit 6a35cd9a7073ec16596afb7116ecef5802844f30 from the main torch/torch7 repo which affected torch.TYPEStorage. 
 
-#### NOTE: Torch is not actively developed anymore and is in maintenance mode.
 
 Self-contained Torch installation
 ============
